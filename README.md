@@ -44,6 +44,5 @@
 
 - ✉️ dheeruindana@gmail.com
 - 🔗 https://www.linkedin.com/in/dheeraj-indana/
-- 🌐 [Portfolio Website] (optional)
 
 ---
