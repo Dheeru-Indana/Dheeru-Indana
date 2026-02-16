@@ -31,7 +31,7 @@
 `MySQL`
 
 **Creative Tools:**  
-`Canva` | `DaVinci Resolve` | `Wondershare Filmora` | ``
+`Canva` | `DaVinci Resolve` | `Wondershare Filmora` 
 
 ---
 
