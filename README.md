@@ -1,14 +1,13 @@
 <!-- ══════════════════════════════════════════════════════════════════ -->
 <!--                         HERO SECTION                            -->
+<!--  FIX: type=waving (stable), desc uses "and" not "&" (no XML    -->
+<!--  entity error), removed stroke/strokeWidth params               -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0f0c29,50:302b63,100:24243e&text=Indana%20Dheeraj&fontColor=ffffff&fontSize=56&fontAlignY=45&desc=CSE%20Undergraduate%20%E2%80%A2%20AI%20%26%20ML%20Specialist%20%E2%80%A2%20Full%20Stack%20Developer&descFontColor=a5b4fc&descAlignY=66&descSize=17&animation=fadeIn&stroke=6366f1&strokeWidth=1.5" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,50:302b63,100:24243e&text=Indana%20Dheeraj&fontColor=ffffff&fontSize=56&fontAlignY=45&desc=CSE%20Undergraduate%20%7C%20AI%20and%20ML%20%7C%20Full%20Stack%20Developer&descFontColor=a5b4fc&descAlignY=66&descSize=17&animation=fadeIn)
 
-<br/>
-
-<!-- TYPING SVG — standalone image element so GitHub renders it correctly -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=3500&pause=1200&color=818CF8&center=true&vCenter=true&repeat=true&width=800&height=55&lines=Aspiring+Software+Development+Engineer+%F0%9F%9A%80;AI+%26+ML+Undergraduate+%40+SRMIST+%F0%9F%A4%96;Full+Stack+Developer+in+Progress+%F0%9F%8C%90;Undergraduate+Researcher+in+AI+Applications+%F0%9F%94%AC;Builder+of+Real-World+Solutions+%F0%9F%9B%A0%EF%B8%8F;Open+to+Software+Engineering+Internships+%F0%9F%92%BC" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=3500&pause=1200&color=818CF8&center=true&vCenter=true&repeat=true&width=800&height=55&lines=Aspiring+Software+Development+Engineer+%F0%9F%9A%80;AI+and+ML+Undergraduate+%40+SRMIST+%F0%9F%A4%96;Full+Stack+Developer+in+Progress+%F0%9F%8C%90;Undergraduate+Researcher+in+AI+Applications+%F0%9F%94%AC;Builder+of+Real-World+Solutions+%F0%9F%9B%A0%EF%B8%8F;Open+to+Software+Engineering+Internships+%F0%9F%92%BC" alt="Typing SVG" />
 </p>
 
 <br/>
@@ -28,7 +27,7 @@
 <p align="center">
 <a href="mailto:dheeruindana@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 &nbsp;
-<a href="https://linkedin.com/in/dheeraj-indana"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/Dheeraj-Indana"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
 <a href="https://github.com/Dheeru-Indana"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
@@ -107,7 +106,7 @@ Looking ahead, I intend to:
 ## 🔭 Current Focus
 
 <p align="center">
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0ea5e9?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-0ea5e9?style=for-the-badge&logo=leetcode&logoColor=white"/>
 <img src="https://img.shields.io/badge/React.js-61dafb?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Python%20Backend-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
@@ -299,7 +298,7 @@ Dashboard-driven traffic incident monitoring system with ML-based severity class
 <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,python&theme=dark" height="40"/>
 </p>
 
-**Key Features:** Real-time crash detection & severity classification · Pre-trained ML model integration · Dashboard monitoring interface · Accident data storage & real-time alerts
+**Key Features:** Real-time crash detection & severity classification · Pre-trained ML model integration · Dashboard monitoring interface · Real-time alerts
 
 `✅ Completed`
 
@@ -489,7 +488,7 @@ I'm not just a developer — I'm a creative who codes.
 
 </div>
 
-The creative work I do outside engineering — video editing, poster design, content creation — gives me a perspective most developers don't have. I understand how to communicate visually, tell a story, and make complex ideas feel simple. That bleeds directly into how I design interfaces and present projects.
+The creative work I do outside engineering gives me a perspective most developers don't have. I understand how to communicate visually, tell a story, and make complex ideas feel simple — and that bleeds directly into how I design interfaces and present projects.
 
 <br/>
 
@@ -519,9 +518,11 @@ The creative work I do outside engineering — video editing, poster design, con
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
 <!--              GET IN TOUCH — PREMIUM ANIMATED SECTION             -->
+<!--  FIX: Removed text labels below buttons — logo badges only      -->
+<!--  FIX: LinkedIn URL corrected to Dheeraj-Indana                  -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:312e81&height=120&text=%F0%9F%92%AC%20Let%27s%20Build%20Something%20Together&fontColor=e0e7ff&fontSize=30&fontAlignY=58&animation=fadeIn" width="100%"/>
+![contact-header](https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:312e81&height=110&text=Get%20In%20Touch&fontColor=e0e7ff&fontSize=34&fontAlignY=58&animation=fadeIn)
 
 <br/>
 
@@ -532,98 +533,52 @@ The creative work I do outside engineering — video editing, poster design, con
 <br/>
 
 <p align="center">
-<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Status-Available%20for%20Opportunities-22c55e?style=for-the-badge&labelColor=14532d" alt="Available"/>
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Currently-Available%20for%20Opportunities-22c55e?style=for-the-badge&labelColor=14532d" alt="Available"/>
 </p>
-
-<br/>
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="260">
-
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=991b1b" width="160"/>
-
-<br/><br/>
-
-<a href="mailto:dheeruindana@gmail.com">
-<img src="https://img.shields.io/badge/dheeruindana%40gmail.com-ffffff?style=flat-square&labelColor=1e1e2e" width="200"/>
-</a>
-
-<br/><br/>
-
-*Best for internship enquiries*<br/>*and project discussions*
-
-</td>
-<td width="40"></td>
-<td align="center" width="260">
-
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1d4ed8" width="160"/>
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/dheeraj-indana">
-<img src="https://img.shields.io/badge/dheeraj--indana-ffffff?style=flat-square&labelColor=1e1e2e" width="200"/>
-</a>
-
-<br/><br/>
-
-*Connect professionally*<br/>*and grow our networks*
-
-</td>
-<td width="40"></td>
-<td align="center" width="260">
-
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" width="160"/>
-
-<br/><br/>
-
-<a href="https://github.com/Dheeru-Indana">
-<img src="https://img.shields.io/badge/Dheeru--Indana-ffffff?style=flat-square&labelColor=1e1e2e" width="200"/>
-</a>
-
-<br/><br/>
-
-*Explore repositories*<br/>*and open-source work*
-
-</td>
-</tr>
-</table>
-</div>
 
 <br/>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,17&height=2" width="65%"/>
+<a href="mailto:dheeruindana@gmail.com">
+<img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="42"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/Dheeraj-Indana">
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="42"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Dheeru-Indana">
+<img src="https://img.shields.io/badge/Explore%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="42"/>
+</a>
+</p>
+
+<br/><br/>
+
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--       COMBINED PREMIUM CLOSING — quote + badges + footer        -->
+<!--  All merged into one cohesive animated section                  -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=99999&color=6366F1&center=true&vCenter=true&width=820&height=36&lines=%E2%80%9CThe+best+engineers+are+not+the+ones+who+know+everything+%E2%80%94+they%27re+the+ones+who+never+stop+learning.%E2%80%9D" alt="Quote"/>
 </p>
 
 <br/>
 
-<div align="center">
-
-> *"The best engineers are not the ones who know everything —*
-> *they're the ones who never stop learning."*
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,50:312e81,100:1e1b4b&height=70&text=Open%20to%20Collaborate%20%C2%B7%20Open%20to%20Learn%20%C2%B7%20Open%20to%20Build&fontColor=c7d2fe&fontSize=15&fontAlignY=60&animation=fadeIn" width="100%"/>
+<p align="center">
+<img src="https://img.shields.io/badge/Open%20to%20Collaborate-1e1b4b?style=for-the-badge&labelColor=312e81&color=4338ca"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20to%20Learn-312e81?style=for-the-badge&labelColor=4338ca&color=6366f1"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20to%20Build-4338ca?style=for-the-badge&labelColor=6366f1&color=818cf8"/>
+</p>
 
 <br/>
 
----
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                           FOOTER                                 -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
+<p align="center">
 <sub>⭐ If you found my profile interesting, consider starring a repository — it means a lot!</sub>
-
-</div>
+</p>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:0f0c29,50:302b63,100:24243e&fontColor=c7d2fe&text=Building%20the%20Future%2C%20One%20Commit%20at%20a%20Time&fontSize=16&fontAlignY=70&animation=fadeIn" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:0f0c29,50:302b63,100:24243e&fontColor=c7d2fe&text=Building%20the%20Future%2C%20One%20Commit%20at%20a%20Time&fontSize=18&fontAlignY=65&animation=fadeIn)
