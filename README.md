@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/github/followers/Dheeru-Indana?style=for-the-badge&color=818cf8&label=FOLLOWERS&logo=github&logoColor=white" alt="Followers"/>
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20To-SWE%20Internships-22c55e?style=for-the-badge" alt="Open to Internships"/>
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2-Open%20to%20Work-22c55e?style=for-the-badge" alt="Open to Work"/>
 &nbsp;
 <img src="https://img.shields.io/badge/CGPA-9.52%2F10-f59e0b?style=for-the-badge&logo=academia&logoColor=white" alt="CGPA"/>
 </p>
