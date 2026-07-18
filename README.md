@@ -53,8 +53,6 @@
 | 📅 **Expected Graduation** | 2028 |
 | 🏆 **CGPA** | 9.52 / 10 |
 | 📍 **Location** | Chennai, Tamil Nadu, India |
-| 🎯 **Career Goal** | Software Development Engineer |
-| 💼 **Looking For** | Software Engineering Internship |
 
 </div>
 
